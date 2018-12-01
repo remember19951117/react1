@@ -1,0 +1,60 @@
+	html, body, div, ul, li, h1, h2, h3, h4, h5, h6, p, dl, dt, dd, ol, form, input, textarea, th, td, select {
+				margin: 0;
+				padding: 0;
+				border: 0;
+
+			}
+			ul,li{
+				list-style: none;
+			}
+			img{
+				border: none;
+			}
+			a{
+				text-decoration: none;
+			}
+			html,body{
+				background: #EBEBEB;
+			}
+            .YD_wrap{
+                width: 100%;
+                height: 100%;
+                background: red;
+            }
+            .YD_top{
+                background: #336BA4;
+                text-align: center;
+				color: #ffffff;
+				height: 2.5rem;
+				line-height: 2.5rem;
+				font-size: 1rem;
+				background: #3778EC;
+            }
+            .YD_left{
+                float:left; 
+            }
+            .YD_tit span{
+                 width: 20%;
+                 height: 2rem;
+                 line-height: 2rem;
+                 border-left: 1px solid #cccccc;
+                 box-sizing: border-box;
+                 float: left;
+                 text-align: center;
+             }
+           
+            .YD_content{
+                width: 100%;
+            }
+            .YD_content ul li{
+                width: 100%;
+            }
+            .YD_content ul li span{
+                width: 20%;
+                height: 2rem;
+                line-height: 2rem;
+                border-left: 1px solid #cccccc;
+                box-sizing: border-box;
+                 float: left;
+                 text-align: center;
+            }

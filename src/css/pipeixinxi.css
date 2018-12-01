@@ -1,0 +1,98 @@
+         html, body, div, ul, li, h1, h2, h3, h4, h5, h6, p, dl, dt, dd, ol, form, input, textarea, th, td,p, select {
+			    margin: 0;
+			    padding: 0;
+			}
+            
+            a{
+				color: #FFFFFF;
+			}
+			html,body{
+				background: #F5F5F9;
+			}
+			.top{
+				width: 100%;
+				height: 3rem;
+				background: #00A0E8;
+				float: left;
+				line-height: 3rem;
+			}
+			.im{
+				float: left;
+				width: 15px;
+				height: 15px;
+				margin-top: 1rem;
+				margin-right: 1rem;
+			}
+			.left{
+				display: block;
+				float: left;
+				font-size: 1rem;
+				color: #FFFFFF;
+			}
+			.right{
+				font-size: 1rem;
+				color: #FFFFFF;
+				text-align: left;
+				padding-left: 8rem;
+				margin-top: 1rem;
+			}
+            .number{
+                text-align:center;
+                line-height: 3rem;
+                padding-top: 1rem;
+            }
+            .jifen{
+                font: bold;
+                font-size: 2rem;
+            }
+            .info{
+                width: 100%;
+                height: auto;
+                border-bottom: 1px solid #cccccc;
+                margin-top: 2rem;
+            }
+            .info ul li{
+                width: 100%;
+                height: 2rem;
+        
+                margin-top: 0.1rem;
+                font-size: 0.3rem;
+                color: #707070;
+            }
+            .info_left{
+                display: inline-block;
+                float: left;
+                margin-left: 1rem;
+            }
+            .info_right{
+                display: inline-block;
+                float: right;
+                margin-right: 1rem;
+            }
+            .frist{
+                width: 100%;
+                height: 8rem;
+                border-bottom: 1px solid #cccccc;
+                margin-top: 0.3rem;
+                font-size: 0.3rem;
+                color: #707070;
+                padding: 2rem 0 0 0;
+            }
+            .frist ul li{
+               width: 100%;
+                height: 2rem;
+              
+                margin-top: 0.1rem;
+                font-size: 0.3rem;
+                color: #707070;
+            }
+            .frist_left{
+                 display: inline-block;
+                 float: left;
+                 margin-left: 1rem;
+            }
+            .frist_right{
+                 display: inline-block;
+                float: right;
+                margin-right: 1rem;
+            }

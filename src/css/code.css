@@ -1,0 +1,94 @@
+            html, body, div, ul, li, h1, h2, h3, h4, h5, h6, p, dl, dt, dd, ol, form, input, textarea, th, td,p, select {
+			    margin: 0;
+			    padding: 0;
+			}
+
+			
+			.code_top{
+				width: 100%;
+				height: 3rem;
+				background: #00A0E8;
+				float: left;
+				line-height: 3rem;
+
+			}
+			.code_im{
+				float: left;
+				width: 15px;
+				height: 15px;
+				margin-top: 1.1rem;
+				margin-right: 1rem;
+			}
+			.code_left{
+				display: block;
+				float: left;
+				font-size: 1rem;
+				color: #FFFFFF;
+				
+			}
+			.code_right{
+				display:block;
+				font-size: 1rem;
+				color: #FFFFFF;
+				text-align: center;
+			}
+			.code_people{
+				width: 100%;
+				height:10rem;
+               padding: 4rem 0 0 1rem;
+				
+			}
+			.code_people_left{
+				width: 20%;
+				height: 5rem;
+               
+				float: left;
+			}
+			.code_people_left img{
+                width: 40px;
+                height: 40px;
+                margin-top: 1rem;
+                margin-left: 1rem;
+            }
+			.code_people_right{
+				width: 80%;
+				height: 5rem;
+               
+				float: left;
+				font-size: 1rem;
+			}
+			.code_one{
+				color:#000000;
+				margin-top: 0.8rem;
+			}
+			.code_two{
+				color: #666666;
+				margin-top: 0.3rem;
+			}
+			.code_imger{
+			    width: 100%;
+				text-align: center;
+				
+			}
+			.code_imger img{
+				
+                width: 15rem;
+                height: 15rem;
+				margin: 5rem 0 0 0;
+			}
+			.code_zhushi{
+				width: 100%;
+				color: #666666;
+				text-align: center;
+			}
+			.code_zhushi p{
+				margin: 0.5rem 0;
+                
+			}
+			.code_three{
+				margin: 1rem 0;
+				font-size: 1.5rem;
+			}
+			.code_four{
+				font-size: 0.5rem;
+			}

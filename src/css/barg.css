@@ -1,0 +1,102 @@
+html, body, div, ul, li, h1, h2, h3, h4, h5, h6, p, dl, dt, dd, ol, form, input, textarea, th, td,p, select {
+			    margin: 0;
+			    padding: 0;
+			}
+ ul,ol{
+	 padding: 0;
+ }
+ p{
+	 margin: 0;
+ }
+ ul,li{
+	 text-decoration: none;
+ }
+    
+			
+			html,body{
+				background: #FFFFFF;
+			}
+			.barg_top{
+				width: 100%;
+				height: 3rem;
+				background: #00A0E8;
+				float: left;
+				line-height: 3.5rem;
+			}
+			.barg_im{
+				float: left;
+				width: 15px;
+				height: 15px;
+				margin-top: 1.1rem;
+				margin-right: 1rem;
+			}
+			.barg_left{
+				display: block;
+				float: left;
+				font-size: 1rem;
+				color: #FFFFFF;
+				
+			}
+			.barg_right{
+				font-size: 1rem;
+				color: #FFFFFF;
+				text-align: left;
+				padding-left: 8rem;
+				margin-top: 1rem;
+			}
+			
+			.barg_img img{
+				width: 100%;
+				height: auto;
+			}
+			.barg_list{
+				width: 100%;
+				height: 12rem;
+				background: #FFFFFF;
+				
+			}
+			.barg_list ul{
+				padding: 0;
+				width: 100%;
+				height: 12rem;
+			}
+			.barg_list img{
+				width: 25px;
+				height: 25px;
+				float: left;
+				margin:1.2rem 1rem 0 2rem;
+			}
+			.barg_list li{
+				width: 50%;
+				height: 6rem;
+				float: left;
+				box-sizing: border-box;
+				border-bottom: 1px solid #cccccc;
+				border-right: 1px solid #cccccc;
+			}
+			.barg_title{
+				margin-top: 0.8rem;
+				display: block;
+				font-size: 0.7rem;
+				color: #707070;
+			}
+			.barg_title2{
+				font-size: 0.1rem;
+				display: block;
+				color: #707070;
+			}
+			.barg_list3{
+				margin-top:1rem; 
+			}
+			.barg_list4{
+				margin-top:1rem; 
+			}
+			.barg_anli{
+				width: 100%;
+				height: 20px;
+				background: #cccccc;
+				margin: 1rem 0;
+				font-size: 1rem;
+				padding-left: 2rem;
+				
+			}

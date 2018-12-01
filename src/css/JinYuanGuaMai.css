@@ -1,0 +1,81 @@
+			html, body, div, ul, li, h1, h2, h3, h4, h5, h6, p, dl, dt, dd, ol, form, input, textarea, th, td, select {
+				margin: 0;
+				padding: 0;
+				border: 0;
+    			font: inherit;
+			}
+			ul,li{
+				list-style: none;
+			}
+			img{
+				border: none;
+			}
+			a{
+				text-decoration: none;
+			}
+			html,body{
+				background: #EBEBEB;
+			}
+			.wrap{
+				width: 100%;
+				height: 100%;
+			}
+			.HZ_top{
+				text-align: center;
+				color: #ffffff;
+				height: 2.5rem;
+				line-height: 2.5rem;
+				font-size: 1rem;
+				background: #3778EC;
+			}
+            .HZ_left{
+                float:left; 
+                color: #ffffff;
+            }
+           
+            .HZ_header{
+                width: 100%;
+                height: 2.5rem;
+                line-height: 2.5rem;
+            }
+            .HZ_header span{
+				display: block;
+                width: 50%;
+                color: #ffffff;
+                background: #336BA4;
+				float: left;
+				text-align: center;
+            }
+			.HZ_context ul{
+				background: #fff;
+			}
+			.HZ_context ul li{
+				width: 100%;
+				height: 2.5rem;
+				background: #fff;
+		    	margin-bottom: 1rem;
+				line-height: 2.5rem;
+				font-size: 0.8rem;
+			}
+			.HZ_context ul li span{
+				float: left;
+				padding-left: 1rem;
+				color: #666;
+				margin-right: 2rem;
+			}
+			.HZ_context ul li input{
+				width: 7rem;
+				outline: none;
+				background: #A8CDF2;
+			}
+			.HZ_context{
+				text-align: center;
+			}
+			.HZ_queren input{
+                width: 85%;
+                height: 2rem;
+                background: #336BA4;
+                color: #fff;
+            }
+
+			

@@ -1,0 +1,91 @@
+			html, body, div, ul, li, h1, h2, h3, h4, h5, h6, p, dl, dt, dd, ol, form, input, textarea, th, td, select {
+				margin: 0;
+				padding: 0;
+				border: 0;
+    			font: inherit;
+			}
+			ul,li{
+				list-style: none;
+			}
+			img{
+				border: none;
+			}
+			a{
+				text-decoration: none;
+			}
+			html,body{
+				background: #EBEBEB;
+			}
+			.wrap{
+				width: 100%;
+				height: 100%;
+			}
+			.XG_top{
+				text-align: center;
+				color: #ffffff;
+				height: 2.5rem;
+				line-height: 2.5rem;
+				font-size: 1rem;
+				background: #3778EC;
+			}
+            .XG_left{
+                float:left; 
+				color: #fff;
+				margin-left: 1rem;
+            }
+            .XG_right{
+                
+            }
+            .XG_header{
+                width: 100%;
+                height: 2.5rem;
+                line-height: 2.5rem;
+            }
+            .XG_header span{
+				display: block;
+                width: 50%;
+                color: #ffffff;
+                background: #336BA4;
+				float: left;
+				text-align: center;
+            }
+			.sp1{
+				
+			}
+			.XG_content ul{
+				margin-top:1rem; 
+			}
+			.XG_content ul li{
+				width: 100%;
+				height: 2.5rem;
+			
+		    	margin-bottom: 2rem;
+				line-height: 2.5rem;
+				font-size: 0.8rem;
+			}
+			.XG_content ul li span{
+				float: left;
+				padding-left: 1rem;
+				color: #666;
+		
+			}
+			.XG_content ul li input{
+				float: right;
+				width: 12rem;
+				margin-right: 2rem;
+				outline: none;
+				background: #fff;
+			}
+			.XG_btn{
+				text-align: center;
+			}
+			.XG_btn input{
+				text-align: center;
+				width: 90%;
+				height: 2.5rem;
+				background: #3778ED;
+				color: #fff;
+			}
+			
+
+			

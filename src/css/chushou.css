@@ -1,0 +1,83 @@
+         html, body, div, ul, li, h1, h2, h3, h4, h5, h6, p, dl, dt, dd, ol, form, input, textarea, th, td,p, select {
+			    margin: 0;
+			    padding: 0;
+			}
+           
+            a{
+				color: #FFFFFF;
+			}
+			html,body{
+				background: #F5F5F9;
+			}
+			.top{
+				width: 100%;
+				height: 3rem;
+				background: #00A0E8;
+				float: left;
+				line-height: 3rem;
+			}
+			.im{
+				float: left;
+				width: 15px;
+				height: 15px;
+				margin-top: 1rem;
+				margin-right: 1rem;
+			}
+			.left{
+				display: block;
+				float: left;
+				font-size: 1rem;
+				color: #FFFFFF;
+			}
+			.right{
+				font-size: 1rem;
+				color: #FFFFFF;
+				text-align: left;
+				padding-left: 8rem;
+				margin-top: 1rem;
+			}
+
+			.yongyou{
+				width: 100%;
+				height: 15rem;
+				background:#FFFFFF;
+				text-align: center;
+				line-height: 15rem;
+				font-size: 1rem;
+			}
+			.yongyou p{
+				
+			}
+			.shezhi{
+				width: 100%;
+				height: 2.2rem;
+				background: #F5F5F9;
+				text-align: left;
+				padding-left: 3rem;
+				font-size: 1rem;
+				line-height: 2.2rem;
+			}
+			.chushou{
+				width: 100%;
+				height: 15rem;
+				
+				text-align: center;
+				padding: 5rem 0;
+				background: #FFFFFF;
+				box-sizing: border-box;
+				font-size: 1rem;
+			}
+			.chushou input{
+				border-radius: 5px;
+			}
+			.chushou p{
+				
+				margin-top: 2rem;
+			}
+			.bottom{
+				width: 60px;
+				height: 25px;
+				
+				text-align: center;
+				font-size: 0.5rem; 
+			}

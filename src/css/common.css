@@ -1,0 +1,148 @@
+html, body{background: rgb(243, 241, 242);}
+body{ font-size: 1.6rem;}
+a{color: #333;}
+
+.am-text-muted { color: #8e908c;}
+[class*=am-u-]+[class*=am-u-]:last-child{ float: left;}
+/* 妹子 中的 媒体对象*/
+.am-media{ margin-top: 15px;}
+.am-media:first-child{margin-top: 0;}
+.am-media, .am-media-body{ overflow: hidden; zoom:1;}
+.am-media-body, .am-media-left, .am-media-right{
+  display: table-cell; vertical-align: top;
+}
+
+
+.am-media-body2{
+    display: table-cell; vertical-align: top;overflow: hidden; zoom:1;
+}
+
+.am-media-left, .am-media>.pull-left{ padding-right: 10px;}
+.am-media-body{ width: 10000px;}
+
+.leftText{ width:80px; padding-right: 0px;}
+
+/* Main Background Color */
+ /* Main Text Color */
+.MTC_green{color: #15c27b;}
+.MTC_red{ color: #e8003f;}
+.MTC_white{ color: #ffffff;}
+.MBC_green{ background-color: #15c27b;}
+.MBC_white{ background-color: #ffffff;}
+.MBoderC_green{ border: 1px solid #15c27b;}
+
+.MBC_dddBtn{ border: 1px solid #e6e6e6; color: #444;}
+.MBC_GreenBtn{border: 1px solid #15c27b; color: #15c27b; background-color: #ffffff;}
+.MBC_GreenBtn:visited, .MBC_GreenBtn:active, .MBC_GreenBtn:focus{ border: 1px solid #15c27b; color: #15c27b; background-color: #ffffff;}
+
+.LKD_border{ border: 1px solid #dedede;}
+.LKD_border-lr{ border:1px solid #dedede; border-width:0 1px;}
+.LKD_border-tb{ border:1px solid #dedede; border-width:1px 0px;}
+.LKD_border-left, .LKD_border-right, .LKD_border-top, .LKD_border-bottom{}
+.LKD_img{width: 100%;}
+.info img {width: 100%;}
+
+.common_positionBottomStyle{ position: fixed; bottom: 0; z-index:999; width:100%; background-color:#dddddd;}
+.text_hidden{text-overflow: ellipsis; overflow: hidden; display: -webkit-box;-webkit-line-clamp: 1;-webkit-box-orient: vertical;}
+
+.customerImg img{ width: 30px; height: 30px; border-radius: 50%; margin: 5px 2px 5px 2px;}
+.am-u-sm-20{ width: 20%;}
+.am-u-sm-20 p{ font-size: 14px;}
+
+/* 分割线的颜色 */
+.segmentLine_L{border-left:1 solid #F9F5F5;}
+.segmentLine_R{border-right:1 solid #F9F5F5;}
+.segmentLine_B{border-bottom:1 solid #F9F5F5;}
+.segmentLine_T{border-top:1 solid #F9F5F5;}
+
+.am-radius5{border-radius: 5px;}
+/* 主色调的按钮 */
+.lkd-btn-green:active { 
+	background-image: none;
+	background-color: #129861;
+}
+.lkd-btn-green:hover{
+    color: #fff;
+    border-color: #1a865a;
+}
+.lkd-btn-green:focus{
+  color: #fff;
+  border-color: #15c27b;
+}
+.lkd-btn-green{
+    color: #fff;
+    background-color: #15c27b;
+    border-color: #15c27b;
+}
+/*****************************************/
+
+/******** 一些习惯性的样式 ******/
+.inputNoneBorder{background-color:'#ffffff'; border:0; outline:none}
+input:focus{ background-color:#ffffff; outline:none;}
+/********************************/
+/* index */
+  /* 搜索框的样式*/
+  .pos-r{position:relative;}
+  .search_span_btn{padding: 2px 10px;position: absolute;right: 0;top: 0;font-size: 1.6rem;cursor: pointer;}
+
+.main{ background-color: #ffffff;}
+.main p.welcome_text{ border-bottom: 1px solid #F9F5F5;}
+.main .am-circle{ width: 50px;}
+.my-actions{ background-color: #ffffff; text-align: left;}
+.main_menu1 img{ width: 35px; height: 35px;}
+
+
+.list_searchStyle{ clear: both;}
+.search_content{ display:block; height:30px; margin-top:0px; float:left; margin-left:0px; text-indent: 0px; border: 0; }
+.search_btn{display:block; height:30px; width:30px;}
+.search_btn span{ line-height:30px;}
+
+.common_positionBottomStyle{ position: fixed; bottom: 0; z-index:999; width:100%; background-color:#dddddd;}
+/*.common_positionBottomStyle a:hover{ color: #15c27b;}*/
+
+/* registered */
+.login_model li input,.login_model li input:focus{ border: 1px solid #ffffff;background-color:#ffffff; border:0; outline:none;}
+
+/* */
+.search_model{ display: block;}
+.search_model input, .search_model input:focus{padding-right: 50px; border: 1px solid transparent; box-shadow: none;}
+.search_model button{ position: relative; margin-top: -38px; z-index: 99; background-color: transparent; border-radius: 6px;}
+
+.menu_model{ background-color: #eff3f6;}
+.menu_model .am-list{ width: 100%;}
+.menu_model .am-list li{ border-bottom: 1px solid #eff3f6;border-top: 1px solid transparent; background-color: #eff3f6;}
+.menu_model .am-list li a{ padding: 1.2rem 0; color: #333; border-bottom: 1px solid #ffffff;}
+.menu_model .am-list li.active{ background-color: #ffffff; border-left: 3px solid #15c27b;}
+.left_col {padding: 0;position: absolute;display: flex; top: 0; bottom: 0;}
+.right_col{margin-left: 25%; height: 100%;}
+.class_content img{ width: 50px; height: 50px;}
+
+/* info */
+.am-nav-tabs>li>a{ margin-right: 0; color: #3E3939;}
+.am-nav>li>a:focus, .am-nav>li>a:hover{border-color: transparent; background-color: transparent;}
+.am-nav-tabs>li.am-active>a, .am-nav-tabs>li.am-active>a:focus, .am-nav-tabs>li.am-active>a:hover{border: 2px solid transparent; border-bottom: 2px solid #f37b1d;color: #f37b1d;}
+.common_submitBtnStyle { display: block; width: 100%; height: 40px; line-height: 23px; margin: 0px 0; border-radius: 2px;}
+.shoppingCarImg .am-icon-md:before{ font-size: 240%;}
+
+/* shop car */
+.number{ width: 90%;}
+.number .am-input-group .am-form-field, .number .am-input-group-btn>.am-btn{
+  height: 24px;
+  padding-bottom: auto;
+}
+.delete_btn{ padding: 0.3em 0.6em; font-size: 1rem; line-height: 1.1em;}
+
+/* allOrder */
+.classMenu{ width: 20%;}
+.classMenu{ width: 20%; float: left;}
+
+.top_menu .am-list>li{border: 3px solid #dedede;
+border-width: 0px 0 3px 0;}
+.order_menu li.active{  border-bottom: 3px solid #15c27b;}
+.order_menu li.LKD_border-lr{ border-left:1px solid #dedede; border-right:1px solid #dedede;}
+.oneTotal{ padding-top: 3px;}
+
+/* Amazeui*/
+.am-list-static > li {
+  padding: 1.2rem .2rem;
+}

@@ -1,0 +1,138 @@
+html, body, div, ul, li, h1, h2, h3, h4, h5, h6, p, dl, dt, dd, ol, form, input, textarea, th, td,p, select {
+			    margin: 0;
+			    padding: 0;
+			}
+			
+			.cishan_top{
+				width: 100%;
+				height: 3rem;
+				background: #00A0E8;
+				float: left;
+				line-height: 3.5rem;
+			}
+			.cishan_im{
+				float: left;
+				width: 15px;
+				height: 15px;
+				margin-top: 1.1rem;
+				margin-right: 1rem;
+			}
+			.cishan_left{
+				display: block;
+				float: left;
+				font-size: 1rem;
+				color: #FFFFFF;
+				
+			}
+			.cishan_right{
+				display:block;
+				font-size: 1rem;
+				color: #FFFFFF;
+				text-align: center;
+			}
+			
+			.cishan_content{
+				width: 100%;
+				
+				background: #FFFFFF;
+			}
+			.cishan_content_jifen{
+				width: 100%;
+				
+				
+			}
+			.cishan_tit{
+				text-align: center;
+				
+			}
+			.cishan_tit2{
+				font-size: 1rem;
+			}
+			
+			
+			.cishan_content_shezhi {
+				width: 100%;
+				height: 2rem;
+				background: #F5F4F9;
+				border: 1px solid #CCCCCC;
+				border-left: none;
+				border-right: none;
+				line-height: 2rem;
+			}
+			.cishan_content_shezhi span{
+				margin-left: 2rem;
+				
+				font-size:0.5rem;
+				color: #CCCCCC;
+			}
+			.cishan_content_juanxian{
+				width: 100%;
+				height:4rem;
+				background: #FFFFFF;
+				line-height: 4rem;
+				text-align: center;
+				
+			}
+			.cishan_jleft{
+				margin-right: 0.8rem;
+				font-size: 0.5rem;
+			}
+			.cishan_jrights{
+				margin-left: 0.8rem;
+				font-size: 0.5rem;
+			}
+			.cishan_gold{
+				width: 150px;
+				height: 24px;
+				display: inline-block;
+				background: #FFFFFF;
+				border: 1px solid #CCCCCC;
+				border-radius: 15px;
+				padding-left: 1rem;
+				font-size: 1rem;
+				outline: none;
+			}
+			.cishan_content_ziliao{
+				width: 100%;
+			
+			}
+			.cishan_content_ziliao p{
+				margin: 0 auto;
+				text-align: center;
+				padding-top: 7rem;
+				margin-left: 10rem;
+			}
+			.cishan_content_ziliao span{
+				width: 150px;
+				height: 50px;
+				
+				font-size: 2rem;
+				display: block;
+				margin-top: 0.1rem;
+				float: left;
+				margin-left: 5rem;
+			}
+			.cishan_content_ziliao p input{
+				width: 400px;
+				height: 3rem;
+				outline: none;
+				float: left;
+				border-radius: 15px;
+				margin-left: 1rem;
+				font-size: 2rem;
+			}
+			
+			.cishan_gundong{
+				width: 100%;
+				height: auto;
+				border: 1px solid #CCCCCC;
+				border-radius: 10px;
+			}
+			.cishan_btn{
+				width: 2.5rem;
+				height: 1.5rem;
+				background: #CCCCCC;
+				margin-left: 0.5rem;
+				line-height: 1.3rem;
+				font-size: 0.5rem;
+			}

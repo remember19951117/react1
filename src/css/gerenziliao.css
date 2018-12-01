@@ -1,0 +1,90 @@
+            html, body, div, ul, li, h1, h2, h3, h4, h5, h6, p, dl, dt, dd, ol, form, input, textarea, th, td,p, select {
+			    margin: 0;
+			    padding: 0;
+			}
+            
+			.ge_top{
+				width: 100%;
+				height: 3rem;
+				background: #00A0E8;
+				float: left;
+				line-height: 3.5rem;
+			}
+			.ge_im{
+				float: left;
+				width: 15px;
+				height: 15px;
+				margin-top: 1.1rem;
+				margin-right: 1rem;
+			}
+			.ge_left{
+				display: block;
+				float: left;
+				font-size: 1rem;
+				color: #FFFFFF;
+				
+			}
+			.ge_right{
+				display:block;
+				font-size: 1rem;
+				color: #FFFFFF;
+				text-align: center;
+			}
+			.ge_ziliao{
+				width: 100%;
+				margin-top: 0.2rem;
+				
+				
+			}
+            .ge_hr{
+                width:100%;
+                height: 45px;
+                display: block; 
+                border-bottom: 2px solid #CCCCCC;
+            }
+			.ge_ziliao p{
+				width: 100%;
+				border: 1px solid #00A0E8;
+				background: #CCCCCC;
+			}
+			.ge_ziliao ul li{
+				width: 100%;
+				height: 3rem;
+				font-size: 1rem;
+				border-bottom: 1px solid #CCCCCC;
+				margin-top: 0.5rem;
+			}
+			.ge_ziliao ul{
+				margin-top: 1rem;
+			}
+			.ge_ziliao ul li span{
+				display: block;
+				float: left;
+				width: 20%;
+				height: 3rem;
+				text-align: left;
+				margin-right: 3rem;
+				line-height: 3rem;
+				margin-left: 1.5rem;
+			}
+			.ge_ziliao ul li input{
+				width: 180px;
+				height: 26px;
+				font-size: 1rem;
+				border: 1px solid #CCCCCC;
+				border-radius:6px;
+				float: left;
+				line-height: 26px;
+				margin-top: 0.3rem;
+				padding-left: 2rem;
+			
+			}
+			.ge_btm{
+				width: 100px;
+				height: 40px;
+				display: block;
+				margin: 3rem auto;
+				background: #00A0E8;
+				color: #FFFFFF;
+				border-radius: 7px;
+			}

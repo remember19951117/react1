@@ -1,0 +1,1 @@
+export { user, yiyuanNumber,zhuce6 } from './user';

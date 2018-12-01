@@ -1,0 +1,140 @@
+html, body, div, ul, li, h1, h2, h3, h4, h5, h6, p, dl, dt, dd, ol, form, input, textarea, th, td,p, select {
+			    margin: 0;
+			    padding: 0;
+			}
+            
+           
+			.zz_top{
+				width: 100%;
+				height: 3rem;
+				background: #00A0E8;
+				float: left;
+				line-height: 3.5rem;
+			}
+			.zz_im{
+				float: left;
+				width: 15px;
+				height: 15px;
+				margin-top: 1.1rem;
+				margin-right: 1rem;
+			}
+			.zz_left{
+				display: block;
+				float: left;
+				font-size: 1rem;
+				color: #FFFFFF;
+				
+			}
+			.zz_right{
+				font-size: 1rem;
+				color: #FFFFFF;
+				text-align: left;
+				padding-left: 8rem;
+				margin-top: 1rem;
+			}
+			.zz_img{
+				width: 100%;
+			
+				
+			}
+			.zz_img img{
+				width: 100%;
+				height: auto;
+			}
+			.zz_zhang{
+				width: 100%;
+				height: 1.5rem;
+				background: #F9F4F5;
+                
+			}
+			.zz_zhang p{
+				text-align: left;
+				font-size: 0.5rem;
+				color: #9C9BA0;
+			
+				margin-left: 2rem;
+			}
+			.zz_zhang2{
+				width: 100%;
+			    text-align: left;
+                
+				background: #F9F4F5;
+			
+			}
+			.zz_zhang2 p{
+				
+               
+				text-align: left;
+				font-size: 0.5rem;
+				color: #9C9BA0;
+			
+				margin-left: 2rem;
+				
+			}
+			
+			
+			.zz_gole{
+				width: 100%;
+				height: 4rem;	
+				font-size: 1rem;
+				color: #9C9BA0;
+				border-bottom: 2px solid #CCCCCC;
+				line-height: 4rem;
+			
+				
+			}
+			.zz_gole input{
+				width: 180px;
+				height: 24px;
+				border: 1px solid #CCCCCC;
+				border-radius: 5px;
+				outline: none;
+				margin: 0 1rem;
+				padding-left: 1.4rem;
+				box-sizing: border-box;
+			}
+			.zz_gole span{
+				display: block;
+				float: left;
+				
+				margin-left: 2rem;
+			}
+			
+			.zz_xinxi{
+				width: 100%;
+				height: 10rem;
+			}
+			.zz_xinxi p{
+				padding-top: 3rem;
+			}
+			.zz_xinxi p span{
+				display: block;
+				
+                width: 70px;
+                height: 22px;
+         
+				float: left;
+				margin-left: 2rem;
+				margin-top: 0.7rem;
+			}
+			.zz_xinxi input{
+				width:160px;
+				height: 26px;
+				border: 1px solid #CCCCCC;
+				border-radius: 8px;
+				outline: none;
+				float: left;
+                margin-left: 2rem;
+			}
+			.zz_tj{
+				width: 100%;
+				height: 10rem;
+				
+			}
+			.zz_tj input{
+				width: 60px;
+				height: 25px;
+				display: block;
+				border-radius: 5px;
+				margin: 5rem auto;
+			}
